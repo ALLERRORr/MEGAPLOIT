@@ -1,5 +1,9 @@
 # MEGAPLOIT
-MEGAPLOIT is a exploiter for windows and linux. how it works 
+MEGAPLOIT is a exploiter for windows and linux.
+
+
+
+
 
 se você gostou então vamos nessa aventura.
 vai ser longa para mim e para voce.
